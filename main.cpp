@@ -96,7 +96,7 @@ int main()
         { 0, 4, 0 }
     };
 
-    int fac_rate = 3;
+    int fac_rate = 5; //zmiana wartosci
 
     calfp(frates, fac_rate);
 
