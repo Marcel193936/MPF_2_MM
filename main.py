@@ -71,14 +71,14 @@ def calfp(frates, fac_rate):
 # driver function
 def main():
     frates = [
-        [0, 1, 0],
-        [0, 1, 0],
-        [0, 3, 0],
-        [0, 1, 0],
-        [0, 3, 0]
+        [4, 1, 0],
+        [4, 0, 0],
+        [3, 3, 0],
+        [7, 4, 0],
+        [5, 1, 0]
     ]
 
-    fac_rate = 5  # zmiana wartosci
+    fac_rate = 2  # zmiana wartosci
     calfp(frates, fac_rate)
 
 
