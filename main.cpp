@@ -1,3 +1,4 @@
+// W tym kodzie błęda wprowadzane zmiany
 #include <iostream>
 #include <string>
 
